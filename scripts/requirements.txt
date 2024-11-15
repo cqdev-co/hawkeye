@@ -1,0 +1,5 @@
+python-dotenv
+GitPython
+requests
+PyYAML
+rich>=10.0.0
